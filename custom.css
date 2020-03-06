@@ -1,0 +1,59 @@
+.av {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.7;
+}
+
+.heading {
+    margin-top: 100px;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.search {
+    width: 500px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#google {
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+#one {
+    color: rgb(75, 75, 216);
+}
+
+#two {
+    color: rgb(241, 89, 89);
+}
+
+#three {
+    color: yellowgreen;
+}
+
+#four {
+    color: rgb(75, 75, 216);
+}
+
+#five {
+    color: greenyellow;
+}
+
+#six {
+    color: rgb(241, 89, 89);
+}
+
+body {
+    background-image: url(emie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
